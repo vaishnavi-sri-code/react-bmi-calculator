@@ -104,8 +104,8 @@ button:hover{
   color: #555
 }
 
-.result p: first-child{
-  margin: #3498db;
+.result p:first-child{
+  color: #3498db;
   font-weight: bold;
 }
 
